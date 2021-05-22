@@ -6,6 +6,9 @@ A general **G**enetic **A**lgorithm **Sol**ver in C++
 [![codecov](https://img.shields.io/codecov/c/github/PytLab/GASol/master.svg)](https://codecov.io/gh/PytLab/GASol)
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/PytLab/GASol/blob/master/LICENSE)
 
+## TODO
+This repo aims to add interfaces to parameterising potentials.
+
 ## Build
 
 #### Clone GASol
